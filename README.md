@@ -1,2 +1,2 @@
 # storage-dump
-Dumping for sharing
+Dumping for personal use across devices
