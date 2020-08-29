@@ -12,7 +12,7 @@
 M140 S55
 M105
 M190 S55
-M104 S205
+M104 S210
 M105
 M109 S205
 M82 ;absolute extrusion mode
